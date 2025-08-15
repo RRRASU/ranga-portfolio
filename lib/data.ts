@@ -214,41 +214,48 @@ export const blogPosts = [
 ];
 
 export const experiences = [
-  {
-    company: "JCPenney",
+    {
+    company: "Mythri Consulting LLC",
     position: "Senior Software Engineer",
-    duration: "2023 - Present",
+    duration: "2017 - Present",
     description:
-      "Lead the migration of legacy mainframe applications to latest technologies and integrating with upgraded hardware devices used in JCPenney Store. Improved performance by 40% reducing legacy systems footprint. Mentored junior developers and implemented best practices for the frontend team.",
-  },
-  {
-    company: "TSYS",
-    position: "Sr Software Engineer",
-    duration: "2022 - 2023",
-    description:
-      "Designed and developed an innovative one stop shop application for all the TSYS employee to know about performance of their flagship api and products. Extensively involved in upgrading Techstack to Micro-Front-end architecture. Worked on integrating Azure AI apis to to create a Gen AI feature integrating with cloud DB's.",
-  },
-  {
-    company: "Walmart",
-    position: "Sr. Software Engineer",
-    duration: "2020 - 2022",
-    description:
-      "Involved in developing Walmart's Global Sourcing and Procurement Platform. Deveoped in latest Angular and later migrated to React using Mirco Fornt End architecture, NodeJs and GraphQl.",
-  },
-  {
-    company: "Southwest Airlines",
-    position: "Sr UI Developer",
-    duration: "2019 - 2020",
-    description:
-      "Designed and developed SWA customer MyAccout portal using React, Redux, and Node.js. Implemented responsive design principles to ensure a seamless experience across various devices and followed strict accesability standards. Enagaged in various Architectural review meetings to discuss the best practices and design patterns.",
-  },
-  {
-    company: "Trinet Inc",
-    position: "Software Developer",
-    duration: "2017 - 2019",
-    description:
-      "Worked on developing an advanced HR reporting tool using Angular framework, Ag-grid, Kendo- UI, RXJS library and NGXS state management library. Leverged integrating Data visualization tools such as Tableau, like D3.js, Chart.js and Highcharts to create interactive charts and graphs.",
-  },
+      "Lead the design and developement of various SAAS applications using latest technologies and integrating with upgraded hardware devices. Pioritizd, performance and user accessability. Mentored junior developers and implemented best practices for the frontend team.",
+  }
+  // {
+  //   company: "JCPenney",
+  //   position: "Senior Software Engineer",
+  //   duration: "2023 - Present",
+  //   description:
+  //     "Lead the migration of legacy mainframe applications to latest technologies and integrating with upgraded hardware devices used in JCPenney Store. Improved performance by 40% reducing legacy systems footprint. Mentored junior developers and implemented best practices for the frontend team.",
+  // },
+  // {
+  //   company: "TSYS",
+  //   position: "Sr Software Engineer",
+  //   duration: "2022 - 2023",
+  //   description:
+  //     "Designed and developed an innovative one stop shop application for all the TSYS employee to know about performance of their flagship api and products. Extensively involved in upgrading Techstack to Micro-Front-end architecture. Worked on integrating Azure AI apis to to create a Gen AI feature integrating with cloud DB's.",
+  // },
+  // {
+  //   company: "Walmart",
+  //   position: "Sr. Software Engineer",
+  //   duration: "2020 - 2022",
+  //   description:
+  //     "Involved in developing Walmart's Global Sourcing and Procurement Platform. Deveoped in latest Angular and later migrated to React using Mirco Fornt End architecture, NodeJs and GraphQl.",
+  // },
+  // {
+  //   company: "Southwest Airlines",
+  //   position: "Sr UI Developer",
+  //   duration: "2019 - 2020",
+  //   description:
+  //     "Designed and developed SWA customer MyAccout portal using React, Redux, and Node.js. Implemented responsive design principles to ensure a seamless experience across various devices and followed strict accesability standards. Enagaged in various Architectural review meetings to discuss the best practices and design patterns.",
+  // },
+  // {
+  //   company: "Trinet Inc",
+  //   position: "Software Developer",
+  //   duration: "2017 - 2019",
+  //   description:
+  //     "Worked on developing an advanced HR reporting tool using Angular framework, Ag-grid, Kendo- UI, RXJS library and NGXS state management library. Leverged integrating Data visualization tools such as Tableau, like D3.js, Chart.js and Highcharts to create interactive charts and graphs.",
+  // },
 ];
 
 export const testimonials = [
